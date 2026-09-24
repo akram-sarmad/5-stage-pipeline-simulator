@@ -1,5 +1,5 @@
 # 5-Stage RISC-V Pipeline Simulator
-
+https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white
 A cycle-accurate simulator of the classic 5-stage pipeline (IF, ID, EX, MEM, WB)
 for a small RV32I-subset ISA, with data forwarding, load-use stalling, and
 control-hazard flushing. Correctness is verified against a non-pipelined
